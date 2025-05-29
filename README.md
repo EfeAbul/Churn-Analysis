@@ -40,7 +40,7 @@ This project aims to analyze and predict customer churn using machine learning t
 
 ## 📂 Dataset Description
 
-The dataset used in this project is `Customer-Churn-Records.csv`, which contains detailed information about 10,000 customers. The goal is to predict whether a customer will churn (leave the company) based on various features.
+The dataset used in this project is `Customer-Churn-Records.csv`, which contains detailed information about 10,000 customers. The goal is to predict whether a customer will churn (leave the company) based on various features. You can download the dataset [here](https://example.com/dataset.zip).
 
 ### 🔑 Target Variable
 - **`Exited`**: Indicates whether the customer has churned.  
