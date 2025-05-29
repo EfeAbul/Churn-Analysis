@@ -12,8 +12,9 @@ This project aims to analyze and predict customer churn using machine learning t
   - Data preprocessing & cleaning
   - Exploratory Data Analysis (EDA)
   - Feature engineering
-  - Machine learning modeling (e.g., Logistic Regression, Random Forest)
-  - Evaluation with accuracy, precision, recall, F1-score, and confusion matrix
+  - Deep learning modeling using TensorFlow (Sequential model with Dense layers)
+  - Evaluation with classification report (precision, recall, F1-score)
+
 
 ---
 
