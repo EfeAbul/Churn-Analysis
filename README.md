@@ -13,14 +13,15 @@ This project aims to analyze and predict customer churn using machine learning t
   - Exploratory Data Analysis (EDA)
   - Feature engineering
   - Deep learning modeling using TensorFlow (Sequential model with Dense layers)
-  - Evaluation with classification report (precision, recall, F1-score)
-
+  - Evaluation using classification report (precision, recall, F1-score)
+  - Visualization of model performance and feature insights
 
 ---
 
 ## 📁 Files
 
-- `Churn_Analysis.ipynb`: Jupyter notebook with complete code and visualizations for the analysis and prediction.
+- `Churn_Analysis.ipynb`: Main notebook with data loading, preprocessing, modeling, and evaluation.
+- `Churn_Analysis_Visuals.ipynb`: Supplementary notebook focused on visualizing metrics, performance, and feature distributions.
 - `README.md`: This documentation file.
 
 ---
@@ -35,6 +36,7 @@ This project aims to analyze and predict customer churn using machine learning t
 3. Open the notebook:
    ```
    jupyter notebook Churn_Analysis.ipynb
+   jupyter notebook Churn_Analysis_Visuals.ipynb
    ```
 5. Run the cells to reproduce the full analysis and prediction pipeline.
 
