@@ -1,10 +1,10 @@
-# 📉 Customer Churn Analysis
+# Customer Churn Analysis
 
 This project aims to analyze and predict customer churn using machine learning techniques. Churn analysis helps businesses understand why customers leave and identify patterns that can prevent future loss.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 - **Objective**: Predict whether a customer will churn based on demographic and service usage data.
 - **Dataset**: A telecom-style customer dataset with features such as contract type, tenure, monthly charges, etc.
@@ -18,7 +18,7 @@ This project aims to analyze and predict customer churn using machine learning t
 
 ---
 
-## 📁 Files
+## Files
 
 - `Churn_Analysis.ipynb`: Main notebook with data loading, preprocessing, modeling, and evaluation.
 - `Churn_Analysis_Visuals.ipynb`: Supplementary notebook focused on visualizing metrics, performance, and feature distributions.
@@ -26,7 +26,7 @@ This project aims to analyze and predict customer churn using machine learning t
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repository or download the notebook.
 2. Install dependencies (e.g., pandas, matplotlib, seaborn, scikit-learn):
@@ -40,16 +40,16 @@ This project aims to analyze and predict customer churn using machine learning t
    ```
 5. Run the cells to reproduce the full analysis and prediction pipeline.
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset used in this project is `Customer-Churn-Records.csv`, which contains detailed information about 10,000 customers. The goal is to predict whether a customer will churn (leave the company) based on various features. You can download the dataset [here](https://example.com/dataset.zip).
 
-### 🔑 Target Variable
+### Target Variable
 - **`Exited`**: Indicates whether the customer has churned.  
   - `1`: Customer left (churned)  
   - `0`: Customer stayed
 
-### 📊 Feature Overview
+### Feature Overview
 
 | Column Name           | Description |
 |-----------------------|-------------|
